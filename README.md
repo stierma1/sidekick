@@ -45,7 +45,7 @@ sidekick.connection.dispose();
 ```
 ##API
 
-###Sidekick.createSidekick(config, params=undefined, hotCold = "hot") -> Rx.Observable
+###Sidekick(config, params=undefined, hotCold = "hot") -> Rx.Observable
 
 ###Config Object properties
 
